@@ -47,7 +47,6 @@ export const siteConfig = {
         "• Cybersecurity Basics (Phishing Awareness, Network Scanning Fundamentals).",
         "• Git & GitHub.",
         "• Basic App Development Concepts.",
-        "• Analytical Thinking & Continuous Learning.",
       ],
     },
     {
@@ -57,15 +56,14 @@ export const siteConfig = {
       bullets: [
         "• AWS Cloud Foundations.",
         "• Java Full Course Certification.",
-        "• Problem Solving & Logical Thinking.",
-        "• Credly Badge – Cloud/AWS Fundamentals.",
+        "• Credly Badge  Cloud/AWS Fundamentals.",
         "• Red Hat Linux Fundamentals.",
       ],
     },
     {
       // company: "",
       title: "Hackathons and Awareness Workshop",
-      dateRange: "june 2025 - May 2020",
+      dateRange: "june 2025 ",
       bullets: [
         "Developed responsive web applications for Awareness Drive",
         "Responsive Phishing Site for Awareness",
